@@ -13,8 +13,6 @@ namespace WebApplication11.Controllers
     {
         private static readonly string[] Summaries = new[]
         {
-            //i branch 1 update
-            // first commit
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
