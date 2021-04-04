@@ -16,6 +16,12 @@ namespace WebApplication11.Controllers
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
+        private void MyNewMethodInBranch10()
+        {
+            // this is my new method
+        }
+
+
         private void MyNewMethod00001GitHub()
         {
             // this is my new method from github
