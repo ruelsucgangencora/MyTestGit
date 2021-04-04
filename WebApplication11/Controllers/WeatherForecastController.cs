@@ -16,6 +16,11 @@ namespace WebApplication11.Controllers
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
         };
 
+        private void MyNewMethod00001GitHub()
+        {
+            // this is my new method from github
+        }
+
         private readonly ILogger<WeatherForecastController> _logger;
 
         public WeatherForecastController(ILogger<WeatherForecastController> logger)
